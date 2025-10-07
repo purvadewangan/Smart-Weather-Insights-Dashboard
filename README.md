@@ -86,5 +86,6 @@ To provide an intuitive, multi-city weather analytics platform that helps users 
 - Encourages environmental awareness with clear, digestible data visualization.
 
 <br>
+<br>
 
 ![Dashboard Preview](https://github.com/purvadewangan/Smart-Weather-Insights-Dashboard/blob/main/Power%20BI%20Weather%20Dashboard%20by%20Purva.png)
